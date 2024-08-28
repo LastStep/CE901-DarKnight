@@ -1,0 +1,22 @@
+# Ignore the intermediate files, binaries, and saves
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vscode/
+.vs/
+Build/
+*.log
+*.obj
+*.pdb
+*.exe
+*.sln
+*.opensdf
+*.suo
+*.tmp
+*.user
+*.userosscache
+*.userprefs
+*.db
+*.opendb

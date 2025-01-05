@@ -13,7 +13,6 @@ The core of the research question was:
 *   **Two Playtest Modes:** The game features two distinct playtest modes, each with a different camera orientation (left-to-right and right-to-left). 
 *   **Multiple Characters:** Players can choose from a selection of characters, each with unique abilities, adding depth to the gameplay. 
 *   **Varied Levels:** The game includes multiple levels with varying difficulty, providing a range of challenges for players. 
-*   **Detailed Documentation:** The repository includes comprehensive documentation detailing the development process, experimental setup, and research findings. 
 
 ## Research Outcomes
 
@@ -30,7 +29,3 @@ The study found no statistically significant correlation between camera directio
 1.  **Download the Project:** Clone or download the repository to your local machine.
 2.  **Open with Unreal Engine 5.3:** Open the project using Unreal Engine 5.3.
 3.  **Compile and Run:** Compile the project and run the game to experience the different playtest modes and levels.
-
-Feel free to explore the project files, run the game, and delve into the thesis to understand the research in detail.
-
-This research project contributes to the understanding of player behavior and game mechanics in 2D platformers. It provides valuable insights for game developers seeking to explore new avenues for improving player experiences.
